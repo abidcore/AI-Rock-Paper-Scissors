@@ -1,0 +1,11 @@
+# AI Rock Paper Scissors Game — Python Dependencies
+# Tested with Python 3.12+
+# Install with: pip install -r requirements.txt
+#
+# Note: "random" is part of the Python standard library and requires
+# no installation; it is listed in the project's tech stack because
+# it powers the computer AI's move generation (see src/game_engine.py).
+
+opencv-python>=4.9.0
+mediapipe>=0.10.9
+numpy>=1.26.0
